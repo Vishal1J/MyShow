@@ -2,12 +2,12 @@
 
 # Description
 
-A movie search web app made using React and Redux 
 
+• MyShow is a simple movie search web app made by using React and Redux.
+• Added features to search movies by their name and add it to list.
+• Added separate section for Favourites where user can add/remove their favourites movies.
   
-    1) Search movies by their name and add it to list.
-  
-    2) Add and remove movies from favourites.
+ 
 
 # ScreenShots
 
